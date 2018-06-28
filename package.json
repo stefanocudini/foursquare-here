@@ -1,7 +1,7 @@
 {
   "name": "foursquare-here",
-  "version": "1.0.0",
-  "description": "Search Foursquare places near you",
+  "version": "1.0.1",
+  "description": "Search Foursquare places near you by command line",
   "main": "index.js",
   "bin": {
     "foursquare-here": "./bin/foursquare-here.sh"
