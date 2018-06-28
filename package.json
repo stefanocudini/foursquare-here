@@ -1,0 +1,22 @@
+{
+  "name": "foursquare-here",
+  "version": "1.0.0",
+  "description": "Search Foursquare places near you",
+  "main": "index.js",
+  "bin": {
+    "foursquare-here": "./bin/foursquare-here.sh"
+  },
+  "author": {
+    "name": "Stefano Cudini",
+    "email": "stefano.cudini@gmail.com",
+    "url": "http://labs.easyblog.it/"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "geoip-lite": "^1.2.2",
+    "ini": "^1.3.5",
+    "public-ip": "^2.4.0",
+    "request": "^2.87.0"
+  }
+}
