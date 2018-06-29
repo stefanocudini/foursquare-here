@@ -16,4 +16,6 @@ and insert these into the file *~/.foursquare-here.ini*
 
 ```bash
 foursquare-here school
+foursquare-here bar
+foursquare-here pizza
 ```
