@@ -6,8 +6,8 @@ Search Foursquare places near you
 # Usage
 
 ```bash
-npm install -g foursquare-here
-foursquare-here
+$ npm install -g foursquare-here
+$ foursquare-here
 ```
 
 Go to https://it.foursquare.com/developers/apps generate new *client_id*, *client_secret*
@@ -15,7 +15,7 @@ Go to https://it.foursquare.com/developers/apps generate new *client_id*, *clien
 and insert these into the file *~/.foursquare-here.ini*
 
 ```bash
-foursquare-here school
-foursquare-here bar
-foursquare-here pizza
+$ foursquare-here school
+$ foursquare-here bar
+$ foursquare-here pizza
 ```
